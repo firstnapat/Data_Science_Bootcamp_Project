@@ -1,6 +1,7 @@
-Homework SQL by แอดทอยคนดีคนเดิม
-1. Create database ออกแบบเองได้เลย
-- min 5 tables + PK/FK
-- min 10 records
-  
-2. เขียน subquery อย่างน้อย 2 จาก chinook.db
+## Mini-Project Database Design
+Created and Modeling Simple Restaurant database 
+
+![img](Restaurant_database.png)
+<p>Simple Database Design with <a href="https://www.diagrams.net">Diagrams</a></p> 
+
+
